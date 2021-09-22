@@ -1,4 +1,4 @@
-# DBA VSG Talk
+# DBA Virtula Group Talk
 
 Hello from DBA Virtual User group.
 
