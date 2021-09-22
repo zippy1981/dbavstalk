@@ -1,4 +1,4 @@
-# DBA VSG Live codeing
+# DBA Virtual Group Live coding
 
 Hello from DBA Virtual User group.
 
